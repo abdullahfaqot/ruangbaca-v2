@@ -1,0 +1,1 @@
+window.confirmOnDel=function(n){Swal.fire({title:"Konfirmasi Hapus",text:"Apakah anda yakin ingin menghapus?",icon:"question",showCancelButton:!0,confirmButtonColor:"#233446",cancelButtonColor:"#8592a3",confirmButtonText:"Ya, Lanjutkan",cancelButtonText:"Batal"}).then(t=>{t.value&&n.closest("form").submit()})};

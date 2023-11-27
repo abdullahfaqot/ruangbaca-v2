@@ -1,0 +1,48 @@
+{
+  "resources/assets/css/auth.css": {
+    "file": "assets/auth-5755b62f.css",
+    "isEntry": true,
+    "src": "resources/assets/css/auth.css"
+  },
+  "resources/assets/css/bootstrap.min.css": {
+    "file": "assets/bootstrap.min-a19b4992.css",
+    "isEntry": true,
+    "src": "resources/assets/css/bootstrap.min.css"
+  },
+  "resources/assets/css/font/nifty-demo-icons.woff2": {
+    "file": "assets/nifty-demo-icons-56c1c956.woff2",
+    "src": "resources/assets/css/font/nifty-demo-icons.woff2"
+  },
+  "resources/assets/css/landing.css": {
+    "file": "assets/landing-053449a2.css",
+    "isEntry": true,
+    "src": "resources/assets/css/landing.css"
+  },
+  "resources/assets/css/nifty.min.css": {
+    "file": "assets/nifty.min-09dbd230.css",
+    "isEntry": true,
+    "src": "resources/assets/css/nifty.min.css"
+  },
+  "resources/assets/js/alert.js": {
+    "file": "assets/alert-9b885f13.js",
+    "isEntry": true,
+    "src": "resources/assets/js/alert.js"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-cc075105.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "css": [
+      "assets/app-cc075105.css"
+    ],
+    "file": "assets/app-2687a02f.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-71455456.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}
